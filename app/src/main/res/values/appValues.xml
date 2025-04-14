@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //strings
+    <string name="botao1tela1">calculadora IMC</string>
+    <string name="botao1tela2">calcular IMC</string>
+    <string name="botao2tela2">Limpar</string>
+    <string name="botao3tela2">Fechar</string>
+    <string name="insert1">Peso</string>
+    <string name="insert2">Altura</string>
+    <string name="peso">PESO:</string>
+    <string name="altura">ALTURA:</string>
+    <string name="IMC">IMC:</string>
+    <string name="Classificação">Classificação:</string>
+    <string name="abaixodopeso">Abaixo do Peso</string>
+    <string name="pesoideal">No Peso Ideal</string>
+    <string name="acimadopeso">Acima do Peso</string>
+    <string name="obesidade1">Obesidade Grau 1</string>
+    <string name="obesidade2">Obesidade Grau 2</string>
+    <string name="obesidade3">Obesidade Grau 3</string>
+    <string name="msgMotivadora">Boa Sorte na caminhada</string>
+
+
+    //cores
+    <color name="verde_fecap1">#006341</color>
+    <color name="verde_fecap2">#00A859</color>
+    <color name="cinza_escuro">#4D4D4D</color>
+    <color name="cinza_claro">#B3B3B3</color>
+    <color name="branco_bg">#FFFFFF</color>
+</resources>
